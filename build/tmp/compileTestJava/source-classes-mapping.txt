@@ -1,0 +1,8 @@
+Model/ProgramareFilmTest.java
+ Model.ProgramareFilmTest
+Controller/ControllSalaTest.java
+ Controller.ControllSalaTest
+Controller/ControllFilmTest.java
+ Controller.ControllFilmTest
+Model/SQLUTILTest.java
+ Model.SQLUTILTest

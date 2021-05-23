@@ -1,0 +1,22 @@
+Model/Sala.java
+ Model.Sala
+Model/Film.java
+ Model.Film
+Model/Bilet.java
+ Model.Bilet
+Controller/ControllFilm.java
+ Controller.ControllFilm
+Model/ProgramareFilm.java
+ Model.ProgramareFilm
+Model/Client.java
+ Model.Client
+Model/SQLUTIL.java
+ Model.SQLUTIL
+Controller/ControllSala.java
+ Controller.ControllSala
+Controller/ControllTotal.java
+ Controller.ControllTotal
+Controller/ControllClient.java
+ Controller.ControllClient
+Main.java
+ Main
